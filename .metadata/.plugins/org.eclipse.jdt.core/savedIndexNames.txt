@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+I:\Cursos\Udemy\Java Primeiros Passos\Programação\.metadata\.plugins\org.eclipse.jdt.core
+318227059.index
+751354057.index
+481428493.index
+641211275.index
+3073204898.index
+1298482623.index
+3864296530.index
